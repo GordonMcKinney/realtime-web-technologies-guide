@@ -41,6 +41,18 @@
 * Ruby
 * Xamarin
 
+#### [Diffusion Cloud by Push Technology](https://www.pushtechnology.com/)
+
+<a href="https://www.pushtechnology.com/">
+  <img src="./images/diffusion-cloud-378.png" alt="Diffusion Cloud by Push Technology" />
+</a>
+
+* [Docs](https://docs.pushtechnology.com/cloud/latest/)
+* [Libraries](https://download.pushtechnology.com/cloud/latest/sdks.html)
+* [Pricing](https://www.pushtechnology.com/pricing/)
+
+> Push Technology is the sole supplier of real-time, delta-data streaming software, Diffusion&#8482;, available on-premise, in-the-cloud, or in a hybrid configuration.  Diffusion reduces the infrastructure cost and increases the efficiency and reliability of the web, mobile, and IoT applications that fuel operations and drive revenue for corporations worldwide.
+
 #### [Fanout](http://fanout.io)
 
 * [Docs](https://fanout.io/docs/)
@@ -214,18 +226,6 @@
 * Presence
 * built-in security (authentication and authorization)
 * multiplexing (through the use of channels)
-
-#### [Reappt by Push Technology](https://www.reappt.io/)
-
-<a href="https://www.reappt.io/">
-  <img src="./images/reappt.png" alt="Reappt by Push Technology" />
-</a>
-
-* [Docs](http://developer.reappt.io/docs/manual/html/)
-* [Libraries](http://developer.reappt.io/docs/index.html)
-* [Pricing](https://www.reappt.io/pricing)
-
-> Reappt is the only enterprise-class Realtime Messaging service delivered via the cloud to power business-critical internet apps. Reappt helps you develop reactive applications faster with lower costs and reduced risks. It is designed for a broad set of internet, mobile, and IoT developers – and provides a complete set of tools, including APIs and client libraries.
 
 #### [Streamdata.io](http://streamdata.io)
 
@@ -505,6 +505,18 @@ All JavaScript. No server. No sweat.
 * RPC
 * Events
 * node.js
+
+#### [Diffusion by Push Technology](https://www.pushtechnology.com/)
+
+<a href="https://www.pushtechnology.com/">
+  <img src="./images/diffusion-378.png" alt="Diffusion by Push Technology" />
+</a>
+
+* [Docs](https://docs.pushtechnology.com/docs/)
+* [Download](https://download.pushtechnology.com/releases/latest/)
+* [Pricing](https://www.pushtechnology.com/pricing/)
+
+> Push Technology is the sole supplier of real-time, delta-data streaming software, Diffusion&#8482;, available on-premise, in-the-cloud, or in a hybrid configuration.  Diffusion reduces the infrastructure cost and increases the efficiency and reliability of the web, mobile, and IoT applications that fuel operations and drive revenue for corporations worldwide.
 
 ### [em-websocket](https://github.com/igrigorik/em-websocket)
 
